@@ -1,0 +1,14 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# API keys
+.streamlit/secrets.toml
+.env
+
+# Large original dataset
+data/raw/
+
+# Temporary files
+*.zip
